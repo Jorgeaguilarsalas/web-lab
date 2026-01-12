@@ -1,1 +1,3 @@
-This is the project description that will show on GitHub.
+## Features
+- Dark/Light theme toggle
+- Responsive navigation
